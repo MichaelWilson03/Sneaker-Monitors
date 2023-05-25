@@ -1,5 +1,5 @@
 # --------------------- WEBHOOK URL ---------------------
-WEBHOOK = ""
+WEBHOOK = "https://discord.com/api/webhooks/1107398307111768194/jxsH_u_XuRjrWk7zTuxdCrifhl8wH2vqlXPWJJcOMDZsaLmZjp0DyC2p-bnPXtscBJZn"
 
 # --------------------- SHOPIFY URL ---------------------
 # Ensure the URL is one that contains products.json (e.g. https://www.hanon-shop.com/collections/whats-new/products.json)
