@@ -1,1 +1,14 @@
 2023-05-24 21:54:49,179 - root - Successfully started monitor
+2023-05-24 21:55:55,931 - root - Successfully started monitor
+2023-05-24 21:55:55,938 - urllib3.connectionpool - Starting new HTTPS connection (1): www.footlocker.com:443
+2023-05-24 21:55:56,286 - urllib3.connectionpool - https://www.footlocker.com:443 "GET /api/products/search?query=men&currentPage=1&sort=newArrivals&pageSize=60 HTTP/1.1" 403 480
+2023-05-24 21:55:56,298 - root - 'NoneType' object is not iterable
+2023-05-24 21:56:01,304 - urllib3.connectionpool - Starting new HTTPS connection (1): www.footlocker.com:443
+2023-05-24 21:56:01,516 - urllib3.connectionpool - https://www.footlocker.com:443 "GET /api/products/search?query=men&currentPage=1&sort=newArrivals&pageSize=60 HTTP/1.1" 403 480
+2023-05-24 21:56:01,526 - root - 'NoneType' object is not iterable
+2023-05-24 21:56:06,543 - urllib3.connectionpool - Starting new HTTPS connection (1): www.footlocker.com:443
+2023-05-24 21:56:06,739 - urllib3.connectionpool - https://www.footlocker.com:443 "GET /api/products/search?query=men&currentPage=1&sort=newArrivals&pageSize=60 HTTP/1.1" 403 480
+2023-05-24 21:56:06,750 - root - 'NoneType' object is not iterable
+2023-05-24 21:56:11,765 - urllib3.connectionpool - Starting new HTTPS connection (1): www.footlocker.com:443
+2023-05-24 21:56:11,982 - urllib3.connectionpool - https://www.footlocker.com:443 "GET /api/products/search?query=men&currentPage=1&sort=newArrivals&pageSize=60 HTTP/1.1" 403 480
+2023-05-24 21:56:11,993 - root - 'NoneType' object is not iterable
